@@ -8,7 +8,7 @@ You can run the test in Windows and Linux OS.
 You can run the test in three browsers: Chrome, Firefox 42 and IE11.
 
 To run the test you need to open command line in directory with pom.xml and run one of these commands:
-"mvn claen test" (run test in chrome).
+"mvn clean test" (run test in chrome).
 "mvn clean test -P firefox" (run test in Firefox)
 "mvn clean test -P ie" (run test in IE)
 
